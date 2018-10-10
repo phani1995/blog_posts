@@ -13,6 +13,7 @@ Persons <br/>
 
 <br/>
 Burgers<br/>
+
 ![Image not found](/assets/images/artificial_data_augmentation_files/small_burger.jpg)
 ![Image not found](/assets/images/artificial_data_augmentation_files/big_burger.jpg)
 
