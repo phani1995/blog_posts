@@ -4,14 +4,18 @@
 
 `I` : Match the persons with the food below <br/>
 Persons <br/>
-<p align="left">
-<img src ="/assets/images/artificial_data_augmentation_files/person1.jpg">
-<p>
-<p align="right">
-<img src ="/assets/images/artificial_data_augmentation_files/person2.png">
-<p>
 
-<br/>
+<img src ="/assets/images/artificial_data_augmentation_files/person1.jpg" height="258" width="196" align="left">
+
+<img src ="/assets/images/artificial_data_augmentation_files/person2.png" height="258" width="258" align="right">
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 Burgers<br/>
 
 ![Image not found](/assets/images/artificial_data_augmentation_files/small_burger.jpg)
