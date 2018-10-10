@@ -6,7 +6,6 @@
 Persons <br/>
 
 <img src ="/assets/images/artificial_data_augmentation_files/person1.jpg" height="258" width="196" >
-
 <img src ="/assets/images/artificial_data_augmentation_files/person2.png" height="258" width="258" >
 <br>
 
