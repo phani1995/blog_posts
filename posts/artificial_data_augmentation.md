@@ -5,17 +5,11 @@
 `I` : Match the persons with the food below <br/>
 Persons <br/>
 
-<img src ="/assets/images/artificial_data_augmentation_files/person1.jpg" height="258" width="196" align="left">
+<img src ="/assets/images/artificial_data_augmentation_files/person1.jpg" height="258" width="196" >
 
-<img src ="/assets/images/artificial_data_augmentation_files/person2.png" height="258" width="258" align="right">
+<img src ="/assets/images/artificial_data_augmentation_files/person2.png" height="258" width="258" >
+<br>
 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 Burgers<br/>
 
 ![Image not found](/assets/images/artificial_data_augmentation_files/small_burger.jpg)
