@@ -25,3 +25,9 @@ difference between latex and tex
 equations in matjax
 
 icons in contact of blog
+
+mirror image using neural networks
+
+how to use tensorborad
+
+*Reidual network*
