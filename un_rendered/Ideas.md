@@ -25,3 +25,12 @@ difference between latex and tex
 equations in matjax
 
 icons in contact of blog
+
+I can list down the companies for the sponsoring of conferences and search jobs according to those companies
+
+visual question answering dataset
+
+cloudCV applications
+
+
+mapilllary dataset training 
