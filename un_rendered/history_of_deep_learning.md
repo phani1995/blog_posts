@@ -1,3 +1,4 @@
+
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
 
 \usepackage{amsmath}
@@ -28,11 +29,11 @@ Sum = \sum_{i=1}^{N} I_i W_i
  
  $y = output$
 
-![Image not found](/assets/images/deep_learning_book_notse_1_files/Linear_Threshold_function.jpg)
+![Image not found](/assets/images/history_of_deep_learning_files/Linear_Threshold_function.jpg)
 
 *Linear Threshold Function*
 
-![Image not found](/assets/images/deep_learning_book_notse_1_files/McCulloch-Pitts_Model_of_Neuron.jpg)
+![Image not found](/assets/images/history_of_deep_learning_files/McCulloch-Pitts_Model_of_Neuron.jpg)
 
 *McCulloch-Pitts_Model_of_Neuron*
 
@@ -48,7 +49,7 @@ Sum = \sum_{i=1}^{N} I_i W_i
 
 The structure of ADALINE
 
-![Image not found](/assets/images/deep_learning_book_notse_1_files/ADALINE.jpg)
+![Image not found](/assets/images/history_of_deep_learning_files/ADALINE.jpg)
 
 *ADALINE*
 
