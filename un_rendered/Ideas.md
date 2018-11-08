@@ -26,19 +26,14 @@ equations in matjax
 
 icons in contact of blog
 
-<<<<<<< HEAD
 I can list down the companies for the sponsoring of conferences and search jobs according to those companies
 
 visual question answering dataset
 
 cloudCV applications
-
-
 mapilllary dataset training 
-=======
 mirror image using neural networks
 
 how to use tensorborad
 
 *Reidual network*
->>>>>>> 6a1f1187f433f3a23a262459c4294bf0058e1b72
