@@ -2,7 +2,6 @@
 
 Breaking down into small goals
 
-
 Job Goals Breaking down
 
 `Company Name` : SmartConnect Technologies
@@ -67,15 +66,15 @@ Solid understanding of mathematical underpinnings behind Machine Learning algori
 
 
 `Company Name` : HyrEzy Talent Solutions
-* Understanding of IBM Watson is added advantage
-* Strong mathematical background with strong knowledge in at least one of the following fields: Cognitive Science, Advanced Semantic Design, Information Extraction, Information Retrieval, Probabilistic Decision Making, image recognition, deep learning
+* Understanding of IBM Watson is added advantage.
+* Strong mathematical background with strong knowledge in at least one of the following fields: Cognitive Science, Advanced Semantic Design, Information Extraction, Information Retrieval, Probabilistic Decision Making, image recognition, deep learning.
 
 `Company Name` : Mobilution IT Systems Pvt Ltd
-* Design, develop, and test applications for TEXT processing, such as name or entity matching, text categorization/routing, named-entity extraction, Topic extraction
-* Work with text mining focused Machine learning & Natural Language Processing techniques to develop scalable solutions related to filtering and managing large amounts of data, converting unstructured data into structured data
+* Design, develop, and test applications for TEXT processing, such as name or entity matching, text categorization/routing, named-entity extraction, Topic extraction.
+* Work with text mining focused Machine learning & Natural Language Processing techniques to develop scalable solutions related to filtering and managing large amounts of data, converting unstructured data into structured data.
 * Hands onexperience with Open source NLP libraries e.g. NLTK, Gensim, Spacy, Stanford NLP etc.
 * Working experience in Text Extraction, Text Mining, Entity Extraction & Machine Learning algorithms.
 
 `Company Name` : Simplynaukri
-* Selecting and transforming features, building and optimizing classifiers using machine learning techniques
-* Creating automated anomaly detection systems and constant tracking of its performance
+* Selecting and transforming features, building and optimizing classifiers using machine learning techniques.
+* Creating automated anomaly detection systems and constant tracking of its performance.

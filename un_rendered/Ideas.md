@@ -31,9 +31,11 @@ I can list down the companies for the sponsoring of conferences and search jobs 
 visual question answering dataset
 
 cloudCV applications
+
 mapilllary dataset training 
+
 mirror image using neural networks
 
 how to use tensorborad
 
-*Reidual network*
+*Residual network*
