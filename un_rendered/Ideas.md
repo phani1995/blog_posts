@@ -1,41 +1,45 @@
+# Ideas
 
+* physics equations f = m*a using gradient decent to demon
 
-physics equations f = m*a using gradient decent to demon
+* simple project in Django
 
-simple project in Django
+* video for linear regression gradient decent implementation
 
-video for linear regression gradient decent implementation
+* **t-SNE** visualization
 
-**t-SNE** visualization
+* **loss functions** in keras
 
-**loss functions** in keras
+* Live minist prediction in using tensorflow js
 
-Live minist prediction in using tensorflow js
+* how does a neural network remember a digit using auto encoders
 
-how does a neural network remember a digit using auto encoders
+* difference between activation functions using the same network
 
-difference between activation functions using the same network
+* cifar 10 linear classification like cs231n
 
-cifar 10 linear classification like cs231n
+* disque comments for blog post
 
-disque comments for blog post
+* difference between latex and tex
 
-difference between latex and tex
+* equations in matjax
 
-equations in matjax
+* icons in contact of blog
 
-icons in contact of blog
+* I can list down the companies for the sponsoring of conferences and search jobs according to those companies
 
-I can list down the companies for the sponsoring of conferences and search jobs according to those companies
+* visual question answering dataset
 
-visual question answering dataset
+* cloudCV applications
 
-cloudCV applications
+* mapilllary dataset training 
 
-mapilllary dataset training 
+* mirror image using neural networks
 
-mirror image using neural networks
+* how to use tensorborad
 
-how to use tensorborad
+* *Residual network*
 
-*Residual network*
+* white paper on object tracking
+
+* [Learn Machine Learning By Building Projects](https://www.eduonix.com/learn-machine-learning-by-building-projects?coupon_code=ES10)
