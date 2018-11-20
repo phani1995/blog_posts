@@ -43,3 +43,7 @@
 * white paper on object tracking
 
 * [Learn Machine Learning By Building Projects](https://www.eduonix.com/learn-machine-learning-by-building-projects?coupon_code=ES10)
+
+* Tensorflow Workshop
+
+* Tensorflow tutorials
