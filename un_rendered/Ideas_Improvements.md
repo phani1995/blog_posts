@@ -87,6 +87,10 @@
 
 * post on object detection using YOLO, RCNN, fast RCNN,faster RCNN with codes
 
+* NotMnist from Udacity
+
+* pandas for newbies
+
 
 ---
 # Improvements
