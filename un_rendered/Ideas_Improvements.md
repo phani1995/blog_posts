@@ -89,8 +89,9 @@
 
 * NotMnist from Udacity
 
-* pandas for newbies
+* pandas for newbies and cheatsheet also
 
+* $$f(x,y) = 4 + (x - 2)^2 + 2y^2$$ this equation drawing and how gradient decent works also with visualization . Machine Learning crash course Reducing Loss tab
 
 ---
 # Improvements
