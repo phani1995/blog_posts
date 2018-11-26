@@ -30,3 +30,5 @@ derivative is in 2-D, for multi-dimensions its gradient (partial derivative with
 Gradient descent to take one step pass through all training samples.   
 Stochastic gradient descent pass through single sample of training samples to take a step.  
 mini batch gradient descent pass through small portion in powers of two (32,64,128) of training samples to take a step.
+
+

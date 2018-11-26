@@ -22,7 +22,7 @@
 
 * ~~difference between latex and tex~~
 
-* equations in matjax
+* ~~equations in matjax~~ - you write in latex and matjax is a library which is used to convert latex to equations on webpage.
 
 * icons in contact of blog
 
@@ -93,7 +93,16 @@
 
 * $$f(x,y) = 4 + (x - 2)^2 + 2y^2$$ this equation drawing and how gradient decent works also with visualization . Machine Learning crash course Reducing Loss tab
 
+* portrait mode using deep learning
+
+* Block chain in supply chain
+
+* how image augmentation would improve the accuracy of models
+
 ---
 # Improvements
 
 * Need to read regularization in machine learning crash course
+
+* Fork and star buttons of github
+<a href="https://github.com/afshinea/keras-data-generator/fork"><button name="button">Click me</button></a>
