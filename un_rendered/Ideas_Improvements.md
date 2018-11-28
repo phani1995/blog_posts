@@ -99,6 +99,8 @@
 
 * how image augmentation would improve the accuracy of models
 
+* Whats app API
+
 ---
 # Improvements
 
@@ -106,3 +108,8 @@
 
 * Fork and star buttons of github
 <a href="https://github.com/afshinea/keras-data-generator/fork"><button name="button">Click me</button></a>
+
+* ~~Need Template photos in every post of site and medium~~
+    * Templates created for every post need to create in canva
+
+* Tags in jekyll blog
