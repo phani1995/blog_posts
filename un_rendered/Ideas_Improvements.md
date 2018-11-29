@@ -49,7 +49,8 @@
 * Tensorflow tutorials
 
 * keras datasets
-    * 4 scirpts are done
+    * all scirpts are done
+    * all notebooks are done
 
 * Regression algorithms
     * Linear Regression
@@ -104,12 +105,14 @@
 ---
 # Improvements
 
-* Need to read regularization in machine learning crash course
+* ~~Need to read regularization in machine learning crash course~~
 
 * Fork and star buttons of github
 <a href="https://github.com/afshinea/keras-data-generator/fork"><button name="button">Click me</button></a>
 
 * ~~Need Template photos in every post of site and medium~~
-    * Templates created for every post need to create in canva
+    * ~~Templates created for every post need to create in canva~~
 
 * Tags in jekyll blog
+
+* canvas tag for all types of algorithms, datasets, regression , classification according to the tree.
