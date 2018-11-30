@@ -4,8 +4,6 @@
 
 * simple project in Django
 
-* video for linear regression gradient decent implementation
-
 * **t-SNE** visualization
 
 * **loss functions** in keras
@@ -62,7 +60,7 @@
     * Multiple Linear Regression
     * support vector regression
     * decision tree regression
-    * randome foreset regression
+    * random foreset regression
 
 * Classification Algorithms
     * Logistic regression
@@ -83,6 +81,8 @@
     * PCA
     * Kernal PCA
     * LDA
+
+* After completing whole keras tree I want to create a tensorflow tree
 
 * models on sematic segmentaion pose eatimation
 
