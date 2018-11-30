@@ -102,6 +102,18 @@
 
 * Whats app API
 
+* cuboid labelled dataset (use this type of one)
+
+* sematic segmentation dataset (build codes) (Fully convolutional neural network) (Udacity kitty road dataset)
+
+* Mark RCNN implementation and explanation.
+
+* Lane detector using line annotations
+
+* autoencoders keras blog into a repository alias (autoencoders for newbies)
+
+* 3-D classification using Kaggle dataset
+
 ---
 # Improvements
 
@@ -116,3 +128,6 @@
 * Tags in jekyll blog
 
 * canvas tag for all types of algorithms, datasets, regression , classification according to the tree.
+
+* read this blog [link](https://distill.pub/2017/aia/)
+
