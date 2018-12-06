@@ -112,7 +112,11 @@
 
 * autoencoders keras blog into a repository alias (autoencoders for newbies)
 
-* 3-D classification using Kaggle dataset
+* 3-D classification using Kaggle dataset (Object Net)
+
+* Geo Visualization of data on california housing dataset
+
+* Removal of water mark
 
 ---
 # Improvements
@@ -131,3 +135,8 @@
 
 * read this blog [link](https://distill.pub/2017/aia/)
 
+* need to change user name of github profile
+
+* need to check with the repository names
+
+* Background like this guys site [This guy's site](http://edankwan.com/)
