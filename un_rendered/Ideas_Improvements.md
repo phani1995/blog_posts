@@ -16,7 +16,7 @@
 
 * cifar 10 linear classification like cs231n
 
-* disque comments for blog post
+* ~~disque comments for blog post~~
 
 * ~~difference between latex and tex~~
 
@@ -30,7 +30,7 @@
 
 * cloudCV applications
 
-* mapilllary dataset training 
+* mapilllary dataset training
 
 * mirror image using neural networks
 
