@@ -140,3 +140,15 @@
 * need to check with the repository names
 
 * Background like this guys site [This guy's site](http://edankwan.com/)
+
+
+* Interactive Resume Resume Page
+* pdf version of a resume to be placed below the Interactive resume page
+* contact with icons in side bar
+* about page
+* my timeline graph in about
+* cards of posts
+* git logo
+* title icon
+* Refereing home 
+* Contact Page
