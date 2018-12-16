@@ -118,37 +118,41 @@
 
 * Removal of water mark
 
+* read this blog [link](https://distill.pub/2017/aia/)
+  
 ---
 # Improvements
 
 * ~~Need to read regularization in machine learning crash course~~
 
-* Fork and star buttons of github
-<a href="https://github.com/afshinea/keras-data-generator/fork"><button name="button">Click me</button></a>
+* ~~Fork and star buttons of github <a href="https://github.com/afshinea/keras-data-generator/fork"><button name="button">Click me</button></a>~~
 
 * ~~Need Template photos in every post of site and medium~~
     * ~~Templates created for every post need to create in canva~~
 
 * Tags in jekyll blog
 
-* canvas tag for all types of algorithms, datasets, regression , classification according to the tree.
+* ~~canvas tag for all types of algorithms, datasets, regression , classification according to the tree.~~
 
-* read this blog [link](https://distill.pub/2017/aia/)
+* ~~need to change user name of github profile~~
 
-* need to change user name of github profile
-
-* need to check with the repository names
-
-* Background like this guys site [This guy's site](http://edankwan.com/)
-
+* ~~need to check with the repository names~~
 
 * Interactive Resume Resume Page
+  
 * pdf version of a resume to be placed below the Interactive resume page
+
 * contact with icons in side bar
+
 * about page
-* my timeline graph in about
-* cards of posts
-* git logo
-* title icon
-* Refereing home 
 * Contact Page
+
+* my timeline graph in about
+
+* cards of posts styling
+
+* ~~git logo~~
+
+* ~~title icon~~
+
+* Refereing home
