@@ -130,29 +130,32 @@
 * ~~Need Template photos in every post of site and medium~~
     * ~~Templates created for every post need to create in canva~~
 
-* Tags in jekyll blog
-
 * ~~canvas tag for all types of algorithms, datasets, regression , classification according to the tree.~~
 
 * ~~need to change user name of github profile~~
 
 * ~~need to check with the repository names~~
 
+* ~~git logo~~
+
+* ~~title icon~~
+
 * Interactive Resume Resume Page
-  
+
+* need to create pdf version of resume
+    
 * pdf version of a resume to be placed below the Interactive resume page
 
 * contact with icons in side bar
 
-* about page
-* Contact Page
+* about page styling
+  
+* Contact Page styling
 
 * my timeline graph in about
 
 * cards of posts styling
 
-* ~~git logo~~
-
-* ~~title icon~~
-
+* Tags in jekyll blog
+  
 * Refereing home
