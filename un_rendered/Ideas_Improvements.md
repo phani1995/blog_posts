@@ -55,7 +55,7 @@
         * ~~scripts~~ are done
         * ~~notebooks~~ are done
         * ~~docs~~ are done
-        * posting on personal site is remaning
+        * ~~posting on personal site is remaning~~ done
         * posting on medium is remaning
     * Multiple Linear Regression
     * support vector regression
@@ -140,13 +140,13 @@
 
 * ~~title icon~~
 
+* ~~contact with icons in side bar~~
+
 * Interactive Resume Resume Page
 
 * need to create pdf version of resume
     
-* pdf version of a resume to be placed below the Interactive resume page
-
-* contact with icons in side bar
+* pdf version of a resume to be placed below the Interactive resume pag
 
 * about page styling
   
