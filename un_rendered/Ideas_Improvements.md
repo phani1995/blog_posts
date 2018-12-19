@@ -119,7 +119,11 @@
 * Removal of water mark
 
 * read this blog [link](https://distill.pub/2017/aia/)
-  
+
+* CALTECH 101 Dataset
+
+* PASCAL VOC Dataset
+
 ---
 # Improvements
 
