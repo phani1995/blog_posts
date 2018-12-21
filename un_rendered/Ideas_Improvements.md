@@ -1,5 +1,11 @@
 # Ideas
 
+* ~~disque comments for blog post~~
+
+* ~~difference between latex and tex~~
+
+* ~~equations in matjax~~ - you write in latex and matjax is a library which is used to convert latex to equations on webpage.
+
 * physics equations f = m*a using gradient decent to demon
 
 * simple project in Django
@@ -16,11 +22,7 @@
 
 * cifar 10 linear classification like cs231n
 
-* ~~disque comments for blog post~~
 
-* ~~difference between latex and tex~~
-
-* ~~equations in matjax~~ - you write in latex and matjax is a library which is used to convert latex to equations on webpage.
 
 * icons in contact of blog
 
@@ -124,6 +126,8 @@
 
 * PASCAL VOC Dataset
 
+* Flash cards for Interview for datascience
+
 ---
 # Improvements
 
@@ -156,10 +160,12 @@
   
 * Contact Page styling
 
-* my timeline graph in about
+* my timeline graph in about me
 
 * cards of posts styling
 
 * Tags in jekyll blog
   
-* Refereing home
+* referring home
+
+* Names on circles
