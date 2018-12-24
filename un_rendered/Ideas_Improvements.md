@@ -169,3 +169,7 @@
 * referring home
 
 * Names on circles
+
+* `NoScope` Standford DWAN Project
+
+* [Dataset](http://cvit.iiit.ac.in/scene-understanding-challenge-2018/overview.php)
