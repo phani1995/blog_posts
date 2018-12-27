@@ -150,7 +150,15 @@
 
 * ~~contact with icons in side bar~~
 
+* border shadow
+border: 4px solid #d20068;
+    border-radius: 100%;
+    box-shadow: 0 0 1px 11px rgba(210,0,104,0.15), 0 0 1px 22px rgba(210,0,104,0.1);
+
+* hilight elements on hover [Elements](https://horace.netlify.com/)
+[icons](https://fontawesome.com/how-to-use/on-the-web/setup/getting-started)
 * Interactive Resume Resume Page
+
 
 * need to create pdf version of resume
     
