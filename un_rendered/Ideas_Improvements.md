@@ -1,5 +1,11 @@
 # Ideas
 
+* ~~disque comments for blog post~~
+
+* ~~difference between latex and tex~~
+
+* ~~equations in matjax~~ - you write in latex and matjax is a library which is used to convert latex to equations on webpage.
+
 * physics equations f = m*a using gradient decent to demon
 
 * simple project in Django
@@ -16,11 +22,7 @@
 
 * cifar 10 linear classification like cs231n
 
-* ~~disque comments for blog post~~
 
-* ~~difference between latex and tex~~
-
-* ~~equations in matjax~~ - you write in latex and matjax is a library which is used to convert latex to equations on webpage.
 
 * icons in contact of blog
 
@@ -124,6 +126,8 @@
 
 * PASCAL VOC Dataset
 
+* Flash cards for Interview for datascience
+
 ---
 # Improvements
 
@@ -148,7 +152,15 @@
 
 * navigation bar not working
   
+* border shadow
+border: 4px solid #d20068;
+    border-radius: 100%;
+    box-shadow: 0 0 1px 11px rgba(210,0,104,0.15), 0 0 1px 22px rgba(210,0,104,0.1);
+
+* hilight elements on hover [Elements](https://horace.netlify.com/)
+[icons](https://fontawesome.com/how-to-use/on-the-web/setup/getting-started)
 * Interactive Resume Resume Page
+
 
 * need to create pdf version of resume
     
@@ -158,10 +170,16 @@
   
 * Contact Page styling
 
-* my timeline graph in about
+* my timeline graph in about me
 
 * cards of posts styling
 
 * Tags in jekyll blog
   
-* Refereing home
+* referring home
+
+* Names on circles
+
+* `NoScope` Standford DWAN Project
+
+* [Dataset](http://cvit.iiit.ac.in/scene-understanding-challenge-2018/overview.php)
