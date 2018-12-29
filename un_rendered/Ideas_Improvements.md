@@ -128,6 +128,10 @@
 
 * Flash cards for Interview for datascience
 
+* `NoScope` Standford DWAN Project
+
+* [Dataset](http://cvit.iiit.ac.in/scene-understanding-challenge-2018/overview.php)
+
 ---
 # Improvements
 
@@ -150,18 +154,19 @@
 
 * ~~contact with icons in side bar~~
 
-* navigation bar not working
+* ~~navigation bar not working~~
   
-* border shadow
-border: 4px solid #d20068;
-    border-radius: 100%;
-    box-shadow: 0 0 1px 11px rgba(210,0,104,0.15), 0 0 1px 22px rgba(210,0,104,0.1);
+* ~~border shadow~~
 
 * hilight elements on hover [Elements](https://horace.netlify.com/)
 [icons](https://fontawesome.com/how-to-use/on-the-web/setup/getting-started)
+.sidebar-image:hover {
+	box-shadow:
+		0 0 1px 30px rgba(52,58,64,0.1);
+ }
+
 * Interactive Resume Resume Page
-
-
+  
 * need to create pdf version of resume
     
 * pdf version of a resume to be placed below the Interactive resume pag
@@ -180,6 +185,3 @@ border: 4px solid #d20068;
 
 * Names on circles
 
-* `NoScope` Standford DWAN Project
-
-* [Dataset](http://cvit.iiit.ac.in/scene-understanding-challenge-2018/overview.php)
