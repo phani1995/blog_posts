@@ -146,6 +146,8 @@
 
 * ~~contact with icons in side bar~~
 
+* navigation bar not working
+  
 * Interactive Resume Resume Page
 
 * need to create pdf version of resume
