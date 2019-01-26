@@ -22,8 +22,6 @@
 
 * cifar 10 linear classification like cs231n
 
-
-
 * icons in contact of blog
 
 * I can list down the companies for the sponsoring of conferences and search jobs according to those companies
@@ -80,7 +78,7 @@
 * Reenorcement Learning
 * Natural Language processing
 * Dimentionality Reduction
-    * PCA
+    * PCA   
     * Kernal PCA
     * LDA
 
@@ -158,18 +156,13 @@
   
 * ~~border shadow~~
 
-* hilight elements on hover [Elements](https://horace.netlify.com/)
-[icons](https://fontawesome.com/how-to-use/on-the-web/setup/getting-started)
-.sidebar-image:hover {
-	box-shadow:
-		0 0 1px 30px rgba(52,58,64,0.1);
- }
+* ~~hilight elements on hover [Elements](https://horace.netlify.com/)~~
 
-* Interactive Resume Resume Page
+* ~~Interactive Resume Resume Page~~
   
 * need to create pdf version of resume
-    
-* pdf version of a resume to be placed below the Interactive resume pag
+  
+* pdf version of a resume to be placed below the Interactive resume page with download pdf button
 
 * about page styling
   
@@ -185,3 +178,5 @@
 
 * Names on circles
 
+* Youtube channel required theme of AI bot. It required a brand image of its own music of its own.The theme is AI Panda. Make a logo of AI panda. Take reference from []
+* (https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
